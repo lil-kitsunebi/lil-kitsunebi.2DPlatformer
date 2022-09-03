@@ -1,0 +1,15 @@
+Projet d'équipe fait avec Unity. 
+
+Ce que j'ai implémenté dans le jeu : 
+-Les niveaux (création et apparence des niveaux) 
+-Joueur (mouvement, attaque, animations, etc.) 
+-Ennemis (scies et personnages masqués : mouvement, animation, etc.) 
+-Système de vie (3 vies/coeurs, perd un coeur s'il touche un ennemi, perd tous ses coeurs s'il tombe dans le vide) 
+-Caméra qui suit le joueur 
+-Possibilité de passer du niveau 1 au niveau 2
+
+Ce que mon coéquipier a implémenté dans le jeu : 
+-Les menus 
+-Audio 
+-Modification sur le système de vie, plus précisément a modifié ce qui se passe quand on a 0 coeur/game over 
+-Modification du système pour passer du niveau 1 au niveau 2 
